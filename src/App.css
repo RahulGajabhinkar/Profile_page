@@ -1,0 +1,42 @@
+.profile_items {
+    margin-left: 50px;
+    display: flex;
+    width: 330px;
+    height: 100%;
+}
+h4 {
+    margin-left: 35px;
+    margin-top:10px;
+}
+
+.contact {
+    margin-top:30px;
+}
+
+.Upload {
+    background-color: #6ED512;
+    border:none;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    height:40px;
+    width:120px;
+    margin-top:15px;
+    margin-left: 65px;
+}
+
+.email {
+    margin-top:5px;
+}
+
+.nav-item {
+    margin-left:200px;
+    margin-right:50px;
+}
+.profile {
+    height: 100%;
+}
+.e_mail {
+    padding-top: 15px;
+    margin: 5px;
+}
